@@ -1,6 +1,9 @@
 # Hi there 👋, 
 
 ## **My name is Fidelis Nwabisi 👋** 
+
+My  Twitter folowers![GitHub followers](https://img.shields.io/github/followers/fidelisnwabisi?logo=GitHub&style=for-the-badge)
+
  I am a Farmer | Web, Mobile App & Business Developer | WarriWolves TopFan | YouTube Creator | Always Learning | Foodie
 
 Skills: Dart / Flutter / WordPress / Content Creation
