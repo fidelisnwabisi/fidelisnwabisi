@@ -8,7 +8,7 @@ I am a Farmer | Web, Mobile App & Business Developer | WarriWolves TopFan | YouT
 
 Skills: Dart / Flutter / WordPress / Content Creation
 
-- 🔭 I’m currently working on this page. [Complete E-Commerce Flutter UI](https://www.youtube.com/playlist?list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
+- 🔭 I’m currently working on this page. [Shop App Tutorial](https://github.com/fidelisnwabisi/shop_app)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with building an Inventory App with Flutter
