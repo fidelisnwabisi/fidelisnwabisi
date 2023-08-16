@@ -8,7 +8,7 @@ I am a Farmer | Web, Mobile App & Business Developer | WarriWolves TopFan | YouT
 
 Skills: Dart / Flutter / WordPress / Content Creation
 
-- 🔭 I’m currently working on this page. [Doc Expiry App - from the book Flutter Succinctly](https://github.com/fidelisnwabisi/doc_expiry_app)
+- 🔭 I’m currently working on this page. [Career Development App - Personal Project](https://github.com/fidelisnwabisi/career_dev_app)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with building an Inventory App with Flutter
