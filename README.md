@@ -10,7 +10,7 @@ Skills: Dart / Flutter / WordPress / Content Creation
 
 - 🔭 I’m currently working on this page. [ToDo App](https://github.com/fidelisnwabisi/todo_app)
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on projects related to flutter
 - 🤔 I’m looking for help with building an Inventory App with Flutter
 - 💬 Ask me about WordPress
 - 📫 How to reach me: fidelisnwabisi@gmail.com
