@@ -8,7 +8,7 @@ I am a Farmer | Web, Mobile App & Business Developer | WarriWolves TopFan | YouT
 
 Skills: Dart / Flutter / WordPress / Content Creation
 
-- 🔭 I’m currently working on this page. [LevelUp Technologies Limited](https://withlevelup.com/)
+- 🔭 I’m currently working on [LevelUp Technologies Limited](https://withlevelup.com/)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on projects related to flutter
 - 🤔 I’m looking for help with building an Inventory App with Flutter
