@@ -13,4 +13,4 @@ Skills: Dart / Flutter / WordPress / Content Creation
 - 👯 I’m looking to collaborate on projects related to flutter
 - 🤔 I’m looking for help with building an Inventory App with Flutter
 - 💬 Ask me about WordPress
-- 📫 How to reach me: fidelisnwabisi@gmail.com
+- 📫 How to reach me: fidelisnwabisi@gmail.com or fidelis@withlevelup.com
