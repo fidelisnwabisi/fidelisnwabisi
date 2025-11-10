@@ -13,7 +13,7 @@
 ---
 
 ### 🛠 Skills & Tools
-- **Languages & Frameworks**: Dart / Flutter  
+- **Languages & Frameworks**: Dart / Flutter, HTML, CSS, JavaScript
 - **CMS & Platforms**: WordPress  
 - **Creative & Strategy**: Branding, Content Creation, SEO  
 
@@ -24,7 +24,21 @@
 - 🌍 [**Youth Visionaries CIC**](https://youthvisionariescic.org/) – Supporting young people in Milton Keynes  
 - 🎤 [**TEDxMiltonKeynesYouth**](https://tedxmiltonkeynesyouth.org/) – Inspiring youth voices through TEDx events  
 - 💡 [**Cleverminds Foundation**](https://clevermindsfoundation.ng/) – Education, empowerment, and community impact  
-- 🏛 [**Trose by LevelUp**](https://trose.withlevelup.com/) –  Empowerments through education and economic initiatives.   
+- 🏛 [**Trose by LevelUp**](https://trose.withlevelup.com/) – Empowerment through education and economic initiatives  
+- 🏘 [**Estherline Home for Heroes**](https://estherline.vercel.app/) – Independent living community for veterans, seniors, and women rebuilding their lives  
+- 👩‍💼 [**Impact Women Network**](https://impact-women-network.vercel.app/) – Community platform for connecting, empowering, and uplifting women leaders  
+
+
+---
+
+### 🏘 Community & Social Impact Projects
+- **LevelUp Technologies x CNCEF (Committed Nsugbe Citizens Empowerment Foundation)** – Collaborative initiative delivering digital literacy training for young people in Nsugbe. The programme focuses on practical computer skills, foundational tech confidence, and pathways into future-focused careers.
+
+
+---
+
+### 🎓 Mentorship & Training
+- **W3Tutor Digital Creators Factory** – Leading hands-on instruction sessions on WordPress setup, deployment workflows, and sustainable digital literacy for early-stage learners.
 
 ---
 
@@ -37,7 +51,8 @@
 ### 🤝 Looking to Collaborate On
 - Flutter projects  
 - Branding & design systems  
-- AI-driven workflow automation  
+- AI-driven workflow automation
+- Marketing & Sales
 
 ---
 
@@ -57,4 +72,4 @@
 
 ---
 
-⭐️ *“Always building, always learning, always sharing.”*  
+⭐️ *“Always building, always learning, always sharing.”*
