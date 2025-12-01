@@ -26,7 +26,7 @@
 - 💡 [**Cleverminds Foundation**](https://clevermindsfoundation.ng/) – Education, empowerment, and community impact  
 - 🏛 [**Trose by LevelUp**](https://trose.withlevelup.com/) – Empowerment through education and economic initiatives  
 - 🏘 [**Estherline Home for Heroes**](https://estherline.vercel.app/) – Independent living community for veterans, seniors, and women rebuilding their lives  
-- 👩‍💼 [**Impact Women Network**](https://impact-women-network.vercel.app/) – Community platform for connecting, empowering, and uplifting women leaders  
+- 👩‍💼 [**Impact Women Network**](https://iwncic.org/) – Community platform for connecting, empowering, and uplifting women leaders  
 
 
 ---
