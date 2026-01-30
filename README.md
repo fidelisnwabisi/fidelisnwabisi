@@ -19,7 +19,7 @@
 
 ---
 
-### 🌟 What I’m Working On
+### 🌟 What I've worked on and still Working On
 - 🚀 [**LevelUp Technologies Limited**](https://withlevelup.com/) – Tech solutions for NGOs, SMEs, and enterprises  
 - 🌍 [**Youth Visionaries CIC**](https://youthvisionariescic.org/) – Supporting young people in Milton Keynes  
 - 🎤 [**TEDxMiltonKeynesYouth**](https://tedxmiltonkeynesyouth.org/) – Inspiring youth voices through TEDx events  
