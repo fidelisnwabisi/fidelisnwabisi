@@ -24,9 +24,10 @@
 - 🌍 [**Youth Visionaries CIC**](https://youthvisionariescic.org/) – Supporting young people in Milton Keynes  
 - 🎤 [**TEDxMiltonKeynesYouth**](https://tedxmiltonkeynesyouth.org/) – Inspiring youth voices through TEDx events  
 - 💡 [**Cleverminds Foundation**](https://clevermindsfoundation.ng/) – Education, empowerment, and community impact  
+- 🏘 [**Estherline Home for Heroes**](https://estherlinehome.com/) – Independent living community for veterans, seniors, and women rebuilding their lives  
+- 👩‍💼 [**Impact Women Network**](https://iwncic.org/) – Community platform for connecting, empowering, and uplifting women leaders
 - 🏛 [**Trose by LevelUp**](https://trose.vercel.app/) – Empowerment through education and economic initiatives  
-- 🏘 [**Estherline Home for Heroes**](https://estherline.vercel.app/) – Independent living community for veterans, seniors, and women rebuilding their lives  
-- 👩‍💼 [**Impact Women Network**](https://iwncic.org/) – Community platform for connecting, empowering, and uplifting women leaders  
+  
 
 
 ---
