@@ -3,6 +3,7 @@
 ## **I’m Fidelis Nwabisi**
 
 🚜 Farmer | 💻 Web & Mobile App Developer | 📈 Business Developer | 🎓 Founder, LevelUp Academy | 🎨 Branding Enthusiast | ⚽ WarriWolves Top Fan | 🎥 YouTube Creator | 🍲 Foodie | 🌱 Lifelong Learner
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/fidelisnwabisi?label=Follow%20me%20on%20Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/fidelisnwabisi)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidelis%20Nwabisi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fidelisnwabisi/)  
 [![Facebook](https://img.shields.io/badge/Facebook-fidelisnwabisi-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/fidelisnwabisi)  
