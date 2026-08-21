@@ -29,6 +29,7 @@
 * 🏘 [**Estherline Home for Heroes**](https://estherlinehome.com/) – Independent living community for veterans, seniors, and women rebuilding their lives
 * 👩‍💼 [**Impact Women Network**](https://iwncic.org/) – Community platform for connecting, empowering, and uplifting women leaders
 * 🏛 [**Trose by LevelUp**](https://trose.vercel.app/) – Empowerment through education and economic initiatives
+* 👧 [**CGUK Girls Foundation**](https://cgukgirlsfoundation.vercel.app/) – Supporting and empowering girls through education, development, and community-focused initiatives
 
 ---
 
